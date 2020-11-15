@@ -1,0 +1,15 @@
+title: Island Symphonies
+description: Extraordinary music experiences in paradise island
+sitename: Island Symphonies
+baseurl: '/islandsymphonies'
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - features
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
